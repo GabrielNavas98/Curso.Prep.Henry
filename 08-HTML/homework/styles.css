@@ -1,11 +1,28 @@
+body {
+    background-image: url('https://i.hipertextual.com/2017/03/22/7e1059d0a886128f62d8961eaa785859.md.jpg');
+    align-items: center;
+}
+h1{
+    color:blue;
+}
+#img1{
+    width: 400px;
+    height: 400px;
+}
+#img2{
+    width: 400px;
+    height: 200px;
+}
 #thirdDiv {
-    height:600;
-    width:500;
-    background: peachpuff;
+    height: 600px;
+    width: 500px;
+    background-color: peachpuff;
     padding: 50px;
-    border: dashed red;
+    border: 5px solid rgb(32, 32, 104);
+    
 }
 #spanId {
     font-size: 18px;
-    margin: 60px;
+    margin: 50px;
+    text-align: center;
 }
